@@ -1,12 +1,16 @@
 # AIhaisi #
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIhaisi&theme=tokyonight)](https://github.com/AIhaisi)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIhaisi&theme=tokyonight)](https://github.com/AIhaisi) 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIhaisi&hide=javascript,html&theme=tokyonight&layout=compact)](https://github.com/AIhaisi)
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIhaisi&theme=transparent)
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIhaisi&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIhaisi&theme=transparent)
+<hr>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIhaisi&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIhaisi&theme=nord_dark)
 
 
 <!--
