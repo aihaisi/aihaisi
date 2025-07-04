@@ -18,7 +18,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIhaisi&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIhaisi&theme=nord_dark)
 
+![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+<hr>
 <!--
 **AIhaisi/AIhaisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
