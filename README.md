@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <hr>
 
@@ -21,6 +22,7 @@
 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white&style=for-the-badge)
 
 <hr>
 <!--
