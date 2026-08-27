@@ -1,8 +1,8 @@
 # aihaisi #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aihaisi&theme=tokyonight)](https://github.com/aihaisi) 
+[![https://github.com/stats-organization/github-stats-extended](https://github-stats-extended.vercel.app/api?username=aihaisi&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/aihaisi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aihaisi&hide=javascript,html&theme=tokyonight&layout=compact)](https://github.com/aihaisi)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=aihaisi&langs_count=5&theme=dark)](https://github.com/aihaisi)
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIhaisi&theme=transparent)
 -->
