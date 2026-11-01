@@ -1,7 +1,7 @@
 <h1 align="center">aihaisi</h1>
 
 <p align="center">
-  <b>数字媒体技术 · 在读</b> &nbsp;|&nbsp; 游戏技术策划 · 实时渲染 · 代码渲染视频
+  <b>数字媒体技术 · 游戏开发 &nbsp;|&nbsp; 实时渲染</b>
   <br><br>
   <sub>把「看起来像美术的活」拆成可计算的参数、可复现的管线、可断言的产物。</sub>
 </p>
@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Real--time_Rendering-1f6feb?style=flat-square" alt="Real-time Rendering">
   <img src="https://img.shields.io/badge/FOCUS-Agent_Skills-8957e5?style=flat-square" alt="Agent Skills">
-  <img src="https://img.shields.io/badge/FOCUS-Code--rendered_Video-3fb950?style=flat-square" alt="Code-rendered Video">
 </p>
 
 ---
