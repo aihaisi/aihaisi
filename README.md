@@ -48,7 +48,6 @@
 - [vue-gallery](https://github.com/aihaisi/vue-gallery) — vue3 图片展示
 - [GLstudy](https://github.com/aihaisi/GLstudy) — OpenGL 学习过程中的练习
 - [plane-battle](https://github.com/aihaisi/plane-battle) · [fruit-cutting-game](https://github.com/aihaisi/fruit-cutting-game) · [MoleGame](https://github.com/aihaisi/MoleGame) · [JumpJumpGame](https://github.com/aihaisi/JumpJumpGame) — 早期小游戏
-- [cuzthesis](https://github.com/aihaisi/cuzthesis) — 浙传 LaTeX 论文模板（fork）
 
 </details>
 
