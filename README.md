@@ -31,13 +31,15 @@
 
 ## 代表项目
 
-| 项目 | 它解决什么 | 关键词 |
-| :--- | :--- | :--- |
-| **[prompt-to-postfx](https://github.com/aihaisi/prompt-to-postfx)** | 自然语言 → 参数配方 → WebGL2 后处理。AI 只决策参数，GPU 逐帧重绘，零依赖单文件 | `WebGL2` `GLSL` |
-| **[aihaisi-workbuddy-skills](https://github.com/aihaisi/aihaisi-workbuddy-skills)** | 个人 Agent 技能库，70+ 个自包含技能：媒体下载、中文排版、代码渲染视频、投研尽调 | `Agent Skills` |
-| **[token-dashboard-workbuddy](https://github.com/aihaisi/token-dashboard-workbuddy)** | 本地优先的 Token 用量看板：按模型统计 token、真实 credit 与性价比排名 | `TypeScript` |
-| **[elaina-mushroom-nim](https://github.com/aihaisi/elaina-mushroom-nim)** | 洛谷 U145698 玩法原型；AI 策略经博弈树穷举验证为最优，不是玄学调参 | `Game AI` |
-| **[hotel-web-book](https://github.com/aihaisi/hotel-web-book)** | Vue 3 + Vite + TypeScript + Tailwind 的海滨度假酒店官网 | `Vue 3` |
+- **[prompt-to-postfx](https://github.com/aihaisi/prompt-to-postfx)** —— 自然语言 → 参数配方 → WebGL2 后处理。AI 只决策参数，GPU 逐帧重绘，零依赖单文件。`WebGL2` `GLSL`
+
+- **[aihaisi-workbuddy-skills](https://github.com/aihaisi/aihaisi-workbuddy-skills)** —— 个人 Agent 技能库，70+ 个自包含技能：媒体下载、中文排版、视频生产、投研尽调。`Agent Skills`
+
+- **[token-dashboard-workbuddy](https://github.com/aihaisi/token-dashboard-workbuddy)** —— 本地优先的 Token 用量看板：按模型统计 token、真实 credit 与性价比排名，数据一步不出本机。`TypeScript`
+
+- **[elaina-mushroom-nim](https://github.com/aihaisi/elaina-mushroom-nim)** —— 洛谷 U145698 玩法原型；AI 策略经博弈树穷举验证为最优，不是玄学调参。`Game AI`
+
+- **[hotel-web-book](https://github.com/aihaisi/hotel-web-book)** —— Vue 3 + Vite + TypeScript + Tailwind 的海滨度假酒店官网。`Vue 3`
 
 <details>
 <summary><b>更早的一些东西</b></summary>
